@@ -5,7 +5,7 @@ __pycache__/
 Test
 # C extensions
 *.so
-.idea
+.idea/*.*
 .pytest_cache
 # Distribution / packaging
 .Python
