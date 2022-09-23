@@ -24,9 +24,9 @@ def test_line():
     my_normal.line(1)
 
 
-# 打印版本
-def test_version():
-    my_info.print_version()
+# 打印信息
+def test_info():
+    my_info.get_all_info()
 
 
 # 打印变量
