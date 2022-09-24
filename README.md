@@ -1,10 +1,14 @@
 # my_python_function
+## describe
 python的常用function的集合
 
-文件说明：
+## 想要使用所有的功能
+`pip install -r requirements.txt`
 
-my_normal:平常常用的调试之类的
+## 文件说明：
 
-my_info:关于信息的
+my_normal:  常用的一些功能函数
 
-my_math:一些常用的数学计算，再次的封装
+my_info: 关于系统、版本、显卡等详细信息
+
+my_math: 一些自定义的的数学计算（使用了taichi利用gpu 进行高性能计算）

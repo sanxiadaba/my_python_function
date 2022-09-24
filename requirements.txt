@@ -4,3 +4,4 @@ snoop~=0.4.1
 psutil~=5.9.2
 cachelib~=0.9.0
 nvidia-ml-py~=11.515.75
+taichi~=1.1.3

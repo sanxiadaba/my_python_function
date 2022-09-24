@@ -83,6 +83,7 @@ def test_snoop():
 
     # 展开变量，对复杂类型进行穿透
     class Foo(object):
+
         def __init__(self, x, y):
             self.x = x
             self.y = y
