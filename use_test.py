@@ -68,6 +68,7 @@ def test_snoop():
             c = 100
             print(a + b + c)
 
+        mab()
         print(a + b)
 
     maa()
